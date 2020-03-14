@@ -1,0 +1,4 @@
+2
+(define-fun f ((x0 (BitVec 64))) (BitVec 64) (bvadd #x000000000000000a x0))
+int-arith6.sl running time : 0 m 1 s
+times : 1

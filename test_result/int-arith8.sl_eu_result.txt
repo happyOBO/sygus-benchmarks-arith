@@ -1,0 +1,4 @@
+2
+(define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvsub x0 x1))
+int-arith8.sl running time : 0 m 18 s
+times : 18

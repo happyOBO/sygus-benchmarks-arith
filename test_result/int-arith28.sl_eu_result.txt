@@ -1,0 +1,4 @@
+3
+(define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvudiv x0 #x0000000000000023) #x0000000000000017))
+int-arith28.sl running time : 7 m 51 s
+times : 471
