@@ -1,2 +1,4 @@
-int-arith20.sl running time : 10 m 0 s
-times : 600
+int-arith20.sl running time : 10 m .007498296 s
+times : 600.007498296
+int-arith20.sl running time : 10 m .029446801 s
+times : 600.029446801

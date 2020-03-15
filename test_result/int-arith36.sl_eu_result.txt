@@ -1,4 +1,6 @@
+int-arith36.sl running time : 2 m .916211042 s
+times : 120.916211042
 2
 (define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvudiv x0 x1) #x0000000000000001))
-int-arith36.sl running time : 1 m 14 s
-times : 74
+int-arith36.sl running time : 2 m 11.348125634 s
+times : 131.348125634

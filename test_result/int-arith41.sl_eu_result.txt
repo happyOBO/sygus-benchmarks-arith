@@ -1,2 +1,4 @@
-int-arith41.sl running time : 10 m 0 s
-times : 600
+int-arith41.sl running time : 10 m .028322704 s
+times : 600.028322704
+int-arith41.sl running time : 10 m .034222824 s
+times : 600.034222824

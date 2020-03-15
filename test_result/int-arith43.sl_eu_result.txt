@@ -1,4 +1,6 @@
+int-arith43.sl running time : 3 m 27.620105129 s
+times : 207.620105129
 3
 (define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvudiv x0 #x0000000000000004) #x0000000000000001))
-int-arith43.sl running time : 1 m 57 s
-times : 117
+int-arith43.sl running time : 3 m 31.375940208 s
+times : 211.375940208

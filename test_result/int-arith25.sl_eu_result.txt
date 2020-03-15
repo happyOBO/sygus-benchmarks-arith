@@ -1,2 +1,4 @@
-int-arith25.sl running time : 10 m 0 s
-times : 600
+int-arith25.sl running time : 10 m .016140355 s
+times : 600.016140355
+int-arith25.sl running time : 10 m .017299987 s
+times : 600.017299987

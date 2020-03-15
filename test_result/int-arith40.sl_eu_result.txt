@@ -1,4 +1,6 @@
+int-arith40.sl running time : 1 m 5.632104596 s
+times : 65.632104596
 2
 (define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvsub x0 #x000000000000000c) x0))
-int-arith40.sl running time : 0 m 44 s
-times : 44
+int-arith40.sl running time : 1 m 16.020063876 s
+times : 76.020063876

@@ -1,2 +1,4 @@
-int-arith26.sl running time : 10 m 0 s
-times : 600
+int-arith26.sl running time : 10 m .006057697 s
+times : 600.006057697
+int-arith26.sl running time : 10 m .025475886 s
+times : 600.025475886

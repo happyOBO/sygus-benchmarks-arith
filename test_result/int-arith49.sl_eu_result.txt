@@ -1,4 +1,4 @@
-3
-(define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvudiv x1 #x000000000000000d) #x0000000000000019))
-int-arith49.sl running time : 9 m 11 s
-times : 551
+int-arith49.sl running time : 10 m .014965513 s
+times : 600.014965513
+int-arith49.sl running time : 10 m .014062608 s
+times : 600.014062608

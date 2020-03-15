@@ -1,4 +1,6 @@
+int-arith15.sl running time : 4 m 36.924637432 s
+times : 276.924637432
 2
 (define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvudiv #x0000000000000030 x1) #x0000000000000004))
-int-arith15.sl running time : 2 m 30 s
-times : 150
+int-arith15.sl running time : 4 m 41.582727571 s
+times : 281.582727571

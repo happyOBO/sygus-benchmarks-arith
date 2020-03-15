@@ -1,2 +1,4 @@
-int-arith38.sl running time : 10 m 0 s
-times : 600
+int-arith38.sl running time : 10 m .040160335 s
+times : 600.040160335
+int-arith38.sl running time : 10 m .033151343 s
+times : 600.033151343

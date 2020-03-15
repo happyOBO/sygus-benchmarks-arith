@@ -1,2 +1,4 @@
-int-arith19.sl running time : 10 m 0 s
-times : 600
+int-arith19.sl running time : 10 m .013507228 s
+times : 600.013507228
+int-arith19.sl running time : 10 m .017478875 s
+times : 600.017478875

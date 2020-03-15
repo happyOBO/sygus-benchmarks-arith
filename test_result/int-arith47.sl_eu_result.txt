@@ -1,4 +1,6 @@
+int-arith47.sl running time : 1 m 25.472146768 s
+times : 85.472146768
 2
 (define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd (bvmul #x0000000000000011 x0) x1))
-int-arith47.sl running time : 0 m 53 s
-times : 53
+int-arith47.sl running time : 1 m 32.456051934 s
+times : 92.456051934

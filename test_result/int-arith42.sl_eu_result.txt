@@ -1,2 +1,4 @@
-int-arith42.sl running time : 10 m 0 s
-times : 600
+int-arith42.sl running time : 10 m .044292039 s
+times : 600.044292039
+int-arith42.sl running time : 10 m .026296338 s
+times : 600.026296338

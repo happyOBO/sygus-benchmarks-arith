@@ -1,2 +1,4 @@
-int-arith27.sl running time : 10 m 0 s
-times : 600
+int-arith27.sl running time : 10 m .008404237 s
+times : 600.008404237
+int-arith27.sl running time : 10 m .017960242 s
+times : 600.017960242

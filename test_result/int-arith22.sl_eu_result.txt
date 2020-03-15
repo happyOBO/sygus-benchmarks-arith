@@ -1,4 +1,6 @@
+int-arith22.sl running time : 6 m 46.582452333 s
+times : 406.582452333
 2
 (define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64)) (x2 (BitVec 64))) (BitVec 64) (bvadd (bvmul #x0000000000000010 x1) #x0000000000000008))
-int-arith22.sl running time : 3 m 46 s
-times : 226
+int-arith22.sl running time : 6 m 35.300149008 s
+times : 395.300149008

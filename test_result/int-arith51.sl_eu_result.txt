@@ -1,2 +1,4 @@
-int-arith51.sl running time : 10 m 0 s
-times : 600
+int-arith51.sl running time : 10 m .017423581 s
+times : 600.017423581
+int-arith51.sl running time : 10 m .049959662 s
+times : 600.049959662

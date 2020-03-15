@@ -1,2 +1,4 @@
-int-arith46.sl running time : 10 m 0 s
-times : 600
+int-arith46.sl running time : 10 m .019835288 s
+times : 600.019835288
+int-arith46.sl running time : 10 m .022088175 s
+times : 600.022088175

@@ -1,2 +1,4 @@
-int-arith21.sl running time : 10 m 0 s
-times : 600
+int-arith21.sl running time : 10 m .013838169 s
+times : 600.013838169
+int-arith21.sl running time : 10 m .025413036 s
+times : 600.025413036
