@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd x0 (bvsub x0 #b0000000000000000000000000000000000000000000000000000000000001100)))
+(define-fun f ((x0 (BitVec 64)) (x1 (BitVec 64))) (BitVec 64) (bvadd x0 (bvsub x0 #b0000000000000000000000000000000000000000000000000000000000001100)))
+int-arith40.sl running time : 0 m 2.451979515 s
+times : 2.451979515

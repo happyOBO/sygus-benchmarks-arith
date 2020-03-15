@@ -1,0 +1,4 @@
+int-arith30.sl running time : 10 m .171969628 s
+times : 600.171969628
+int-arith30.sl running time : 10 m .139465989 s
+times : 600.139465989

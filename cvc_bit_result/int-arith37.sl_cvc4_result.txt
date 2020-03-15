@@ -1,0 +1,4 @@
+int-arith37.sl running time : 10 m .213629281 s
+times : 600.213629281
+int-arith37.sl running time : 10 m .158472780 s
+times : 600.158472780

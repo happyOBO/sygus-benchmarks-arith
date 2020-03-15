@@ -1,0 +1,4 @@
+int-arith33.sl running time : 10 m .196245760 s
+times : 600.196245760
+int-arith33.sl running time : 10 m .149333693 s
+times : 600.149333693

@@ -1,0 +1,4 @@
+int-arith53.sl running time : 10 m .185394120 s
+times : 600.185394120
+int-arith53.sl running time : 10 m .164462424 s
+times : 600.164462424
