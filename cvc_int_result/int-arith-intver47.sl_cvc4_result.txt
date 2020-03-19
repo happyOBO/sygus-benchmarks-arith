@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (+ x1 (* x0 17)))
+(define-fun f ((x0 Int) (x1 Int)) Int (+ x1 (* x0 17)))
+int-arith-intver47.sl running time : 0 m 3.359986138 s
+times : 3.359986138

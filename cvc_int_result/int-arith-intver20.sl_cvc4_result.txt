@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (* 10 (- x1 1)))
+(define-fun f ((x0 Int) (x1 Int)) Int (* 10 (- x1 1)))
+int-arith-intver20.sl running time : 0 m 13.718223111 s
+times : 13.718223111

@@ -1,0 +1,7 @@
+int-arith-intver21.sl running time : 0 m 33.546121764 s
+times : 33.546121764
+unsat
+(define-fun f ((x0 Int) (x1 Int) (x2 Int)) Int (+ 41 (div 64 x2)))
+(define-fun f ((x0 Int) (x1 Int) (x2 Int)) Int (+ 41 (div 64 x2)))
+int-arith-intver21.sl running time : 0 m 49.907064474 s
+times : 49.907064474

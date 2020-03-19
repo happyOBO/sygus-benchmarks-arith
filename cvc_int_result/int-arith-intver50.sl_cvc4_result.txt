@@ -1,0 +1,7 @@
+int-arith-intver50.sl running time : 3 m 29.581525471 s
+times : 209.581525471
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (* x0 (- 17 (div 20 x1))))
+(define-fun f ((x0 Int) (x1 Int)) Int (* x0 (- 17 (div 20 x1))))
+int-arith-intver50.sl running time : 3 m 31.218951036 s
+times : 211.218951036

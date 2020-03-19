@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 Int) (x1 Int) (x2 Int)) Int (+ x2 (* x0 x1)))
+(define-fun f ((x0 Int) (x1 Int) (x2 Int)) Int (+ x2 (* x0 x1)))
+int-arith-intver18.sl running time : 0 m 4.909134544 s
+times : 4.909134544
