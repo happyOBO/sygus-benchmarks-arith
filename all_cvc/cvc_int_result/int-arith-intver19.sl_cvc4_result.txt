@@ -1,0 +1,7 @@
+int-arith-intver19.sl running time : 7 m 30.399796024 s
+times : 450.399796024
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (* 2 (+ 5 (* x0 x1))))
+(define-fun f ((x0 Int) (x1 Int)) Int (* 2 (+ 5 (* x0 x1))))
+int-arith-intver19.sl running time : 7 m 21.083315829 s
+times : 441.083315829

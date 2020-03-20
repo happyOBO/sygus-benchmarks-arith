@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int x0)
+(define-fun f ((x0 Int) (x1 Int)) Int x0)
+int-arith-intver29.sl running time : 0 m .021659491 s
+times : .021659491

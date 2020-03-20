@@ -1,0 +1,7 @@
+int-arith-intver38.sl running time : 0 m 38.768485224 s
+times : 38.768485224
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (- 50 (* x1 11)))
+(define-fun f ((x0 Int) (x1 Int)) Int (- 50 (* x1 11)))
+int-arith-intver38.sl running time : 0 m 51.189804704 s
+times : 51.189804704

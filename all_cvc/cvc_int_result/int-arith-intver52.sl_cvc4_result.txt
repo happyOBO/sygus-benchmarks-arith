@@ -1,0 +1,7 @@
+int-arith-intver52.sl running time : 3 m 26.779464612 s
+times : 206.779464612
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (+ x0 (- 5 (* x1 x1))))
+(define-fun f ((x0 Int) (x1 Int)) Int (+ x0 (- 5 (* x1 x1))))
+int-arith-intver52.sl running time : 3 m 22.558680679 s
+times : 202.558680679

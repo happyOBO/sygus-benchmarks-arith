@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (+ 23 (div x0 35)))
+(define-fun f ((x0 Int) (x1 Int)) Int (+ 23 (div x0 35)))
+int-arith-intver28.sl running time : 0 m 26.338214605 s
+times : 26.338214605

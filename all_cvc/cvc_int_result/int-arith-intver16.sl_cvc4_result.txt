@@ -1,0 +1,5 @@
+unsat
+(define-fun f ((x0 Int)) Int (* x0 8))
+(define-fun f ((x0 Int)) Int (* x0 8))
+int-arith-intver16.sl running time : 0 m .018801016 s
+times : .018801016

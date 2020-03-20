@@ -1,0 +1,7 @@
+int-arith-intver26.sl running time : 4 m 28.590606640 s
+times : 268.590606640
+unsat
+(define-fun f ((x0 Int) (x1 Int)) Int (* x1 (div 35 (- 9 x0))))
+(define-fun f ((x0 Int) (x1 Int)) Int (* x1 (div 35 (- 9 x0))))
+int-arith-intver26.sl running time : 4 m 55.313135763 s
+times : 295.313135763
